@@ -1,0 +1,142 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CF800AE-3372-4F00-8856-21E1D7D706A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 979,
+    "width": 1182,
+    "x": 0,
+    "y": 2747
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "33A68A97-2A8F-47AC-ABFD-05277CFC2A92"
+    },
+    {
+      "class": "group",
+      "id": "7B534FDF-9FB4-4404-AAC7-931B6C3C4944"
+    },
+    {
+      "class": "group",
+      "id": "53E8EFC3-B225-434F-96B2-E35E576863FD"
+    },
+    {
+      "class": "text",
+      "id": "2D4D50A3-80CD-42D0-914E-D0E51476A17C"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "sect_photo_wedding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C6D606D7-9DA7-4F86-A998-AC2D13EFDEE7",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_bd42bf45-a0d4-4055-860e-2ab99615f2dc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_4a403969-f932-438a-ae8f-0c234c68e12d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_898838ac-0610-4d0b-8662-1dc3784b6ce7",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_a4ad6ade-c0f3-4390-8a95-6fbe40ecd095",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0.865
+          }
+        }
+      }
+    }
+  }
+}
