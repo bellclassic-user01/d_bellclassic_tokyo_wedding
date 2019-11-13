@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Reman",
-              "size": 120
+              "size": 125
             }
           },
-          "kerning": 0.6666666666666667,
+          "kerning": 0.6944444444444448,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -57,7 +57,7 @@
     "x": 480.7621405011678,
     "y": 0
   },
-  "glyphBounds": "{{0, -23}, {573, 139}}",
+  "glyphBounds": "{{0, -27}, {597, 145}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,10 +131,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Reman",
-            "size": 120
+            "size": 125
           }
         },
-        "kerning": 0.6666666666666667,
+        "kerning": 0.6944444444444448,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
