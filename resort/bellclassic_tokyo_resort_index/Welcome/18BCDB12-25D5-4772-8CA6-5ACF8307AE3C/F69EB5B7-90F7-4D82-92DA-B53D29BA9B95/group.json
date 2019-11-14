@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 1077,
     "width": 2361,
-    "x": -498,
-    "y": 2506
+    "x": -496,
+    "y": 2507
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",

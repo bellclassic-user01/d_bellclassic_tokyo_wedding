@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 884,
-    "width": 1183,
-    "x": 183,
-    "y": 3972
+    "height": 998,
+    "width": 1324,
+    "x": 42,
+    "y": 3881
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -45,12 +45,12 @@
       "id": "1D62B025-0F87-4B0A-9B72-BA20678C4FDA"
     },
     {
-      "class": "text",
-      "id": "4D35B80C-F076-4A5A-AD5B-5ED792431C8A"
+      "class": "group",
+      "id": "765F2F1B-E05E-4341-8794-745E47DE2557"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "sect_photo_wedding",
+  "name": "sect_church",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 315.9999999999998,
-    "width": 473.9999999999996,
-    "x": -54.99999999999995,
-    "y": 0
+    "height": 283,
+    "width": 424,
+    "x": -49,
+    "y": -1
   },
   "hasClippingMask": false,
   "image": {
@@ -33,7 +33,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
   "name": "slide05",

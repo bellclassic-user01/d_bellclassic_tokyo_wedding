@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 316,
-    "width": 316,
-    "x": 154,
+    "height": 283,
+    "width": 283,
+    "x": 90,
     "y": 0
   },
   "groupLayout": {
