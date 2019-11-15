@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -42,11 +42,11 @@
     },
     {
       "class": "text",
-      "id": "558C38E5-02C9-407F-9A46-E7CAF2EF0C7D"
+      "id": "2B607C48-C018-49A6-86C0-0B1CA0A653FA"
     },
     {
-      "class": "triangle",
-      "id": "5651539E-2B69-4DE6-A3E7-DDEB2E2D7093"
+      "class": "text",
+      "id": "558C38E5-02C9-407F-9A46-E7CAF2EF0C7D"
     }
   ],
   "maintainScrollPosition": false,

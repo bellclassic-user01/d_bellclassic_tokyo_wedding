@@ -71,7 +71,39 @@
     },
     {
       "class": "group",
-      "id": "FA937598-93B3-4CBB-B1DA-946089E27A86"
+      "id": "D2E32703-343E-4C28-8313-6A39049A03D7"
+    },
+    {
+      "class": "group",
+      "id": "4ADC3B11-8531-4407-A6F7-B2DE7A746D1D"
+    },
+    {
+      "class": "text",
+      "id": "DEAFDFDD-3BCA-407E-AE81-DF076B3FB555"
+    },
+    {
+      "class": "text",
+      "id": "1CC5921E-ECE7-48A4-ADB5-53A9A4C28C9D"
+    },
+    {
+      "class": "text",
+      "id": "03D1A5CC-26B3-4B86-A280-EEE0B48B76B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "3494A2E0-7BFD-4CA3-BA53-41F8D5F65E92"
+    },
+    {
+      "class": "text",
+      "id": "46FBCACD-C03E-41DC-A17C-374CD7533CBF"
+    },
+    {
+      "class": "text",
+      "id": "42DD1288-5745-49E4-B922-BD5BCAFA5CF6"
+    },
+    {
+      "class": "group",
+      "id": "F9484985-577D-4006-8D0A-97481132B05E"
     },
     {
       "class": "group",
@@ -79,7 +111,7 @@
     },
     {
       "class": "group",
-      "id": "F9484985-577D-4006-8D0A-97481132B05E"
+      "id": "3B70340A-1A28-44AB-A6FA-0C381E7D18C0"
     },
     {
       "class": "group",
@@ -95,11 +127,35 @@
     },
     {
       "class": "group",
+      "id": "FA380F11-AE9C-4175-9458-A99A669F8465"
+    },
+    {
+      "class": "group",
       "id": "A5B84894-4CFC-4EE7-80E6-13D16EEE01D4"
     },
     {
       "class": "group",
       "id": "277F4E38-2438-43C2-A822-3CD9CB0BF7DF"
+    },
+    {
+      "class": "group",
+      "id": "FA937598-93B3-4CBB-B1DA-946089E27A86"
+    },
+    {
+      "class": "group",
+      "id": "2691E2D1-7AD6-4EA4-8C36-F2B5B9EC9021"
+    },
+    {
+      "class": "group",
+      "id": "CE841120-D3CE-4C93-BD82-B17FADE1792B"
+    },
+    {
+      "class": "group",
+      "id": "9FB2E8FB-3E5B-4E05-8312-37EEB535C431"
+    },
+    {
+      "class": "group",
+      "id": "D4ED0353-1B16-4D09-85C0-8865FA577C4A"
     }
   ],
   "layout": {
@@ -184,7 +240,12 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      950
+      950,
+      3807,
+      3953,
+      4950,
+      5150,
+      2707
     ]
   }
 }
