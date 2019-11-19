@@ -54,8 +54,8 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "btn",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
