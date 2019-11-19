@@ -22,9 +22,9 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 57,
-            "minimumLineHeight": 57
+            "alignment": 2,
+            "maximumLineHeight": 65,
+            "minimumLineHeight": 65
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -50,9 +50,9 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 57,
-            "minimumLineHeight": 57
+            "alignment": 2,
+            "maximumLineHeight": 65,
+            "minimumLineHeight": 65
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -78,9 +78,9 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 57,
-            "minimumLineHeight": 57
+            "alignment": 2,
+            "maximumLineHeight": 65,
+            "minimumLineHeight": 65
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -106,9 +106,9 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 57,
-            "minimumLineHeight": 57
+            "alignment": 2,
+            "maximumLineHeight": 65,
+            "minimumLineHeight": 65
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -116,7 +116,7 @@
         "location": 25
       }
     ],
-    "string": "挙式料 ¥318,000 から ¥120,000 OFF !"
+    "string": "挙式料 ¥318,000 から\n¥120,000 OFF !"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -135,12 +135,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
+    "height": 130,
     "width": 630,
     "x": 69,
-    "y": 182
+    "y": 172
   },
-  "glyphBounds": "{{0, 2}, {618, 56}}",
+  "glyphBounds": "{{151, 30}, {331, 97}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -219,9 +219,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 57,
-          "minimumLineHeight": 57
+          "alignment": 2,
+          "maximumLineHeight": 65,
+          "minimumLineHeight": 65
         },
         "textStyleVerticalAlignmentKey": 0
       },

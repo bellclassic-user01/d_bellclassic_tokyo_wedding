@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 94,
-    "width": 117,
-    "x": 631,
-    "y": 103
+    "height": 105,
+    "width": 131,
+    "x": 512,
+    "y": 121
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
