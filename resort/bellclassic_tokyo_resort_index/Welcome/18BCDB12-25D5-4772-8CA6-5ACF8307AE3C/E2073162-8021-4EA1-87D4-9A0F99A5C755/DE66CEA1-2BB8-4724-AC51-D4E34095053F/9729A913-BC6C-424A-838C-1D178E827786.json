@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 57,
+        "length": 64,
         "location": 0
       }
     ],
-    "string": "今ならお得な割引プラン！この機会にぜひ式場までご相談にいらしてください。\n数組限定で先着順ですので、ぜひお早めに。"
+    "string": "今ならお得な割引プラン！この機会にぜひベルクラシック東京までご相談にいらしてください。\n数組限定で先着順ですので、ぜひお早めに。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 44,
     "width": 621,
     "x": 69,
-    "y": 205
+    "y": 235
   },
-  "glyphBounds": "{{0, 9}, {494, 37}}",
+  "glyphBounds": "{{0, 9}, {592, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "今ならお得な割引プラン！この機会にぜひ式",
+  "name": "今ならお得な割引プラン！この機会にぜひベ",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

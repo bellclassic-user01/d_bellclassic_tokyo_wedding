@@ -17,6 +17,35 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W3",
+              "size": 22
+            }
+          },
+          "kerning": 0.8461538461538463,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 65,
+            "minimumLineHeight": 65
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 14,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.192156862745098,
+            "green": 0.2078431372549019,
+            "red": 0.2627450980392157
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HiraginoSans-W3",
               "size": 26
             }
           },
@@ -29,8 +58,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
-        "location": 0
+        "length": 1,
+        "location": 14
       },
       {
         "_class": "stringAttribute",
@@ -46,10 +75,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Cookie-Regular",
-              "size": 82
+              "size": 84
             }
           },
-          "kerning": 1,
+          "kerning": 1.024390243902439,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -59,7 +88,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 8,
-        "location": 16
+        "location": 15
       },
       {
         "_class": "stringAttribute",
@@ -88,7 +117,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 24
+        "location": 23
       },
       {
         "_class": "stringAttribute",
@@ -117,10 +146,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 5,
-        "location": 25
+        "location": 24
       }
     ],
-    "string": "挙式料 ¥318,000 から\n¥120,000 OFF !"
+    "string": "ハワイ挙式一式料金からなんと\n¥120,000 OFF !"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -142,9 +171,9 @@
     "height": 130,
     "width": 630,
     "x": 69,
-    "y": 60
+    "y": 58
   },
-  "glyphBounds": "{{144, 30}, {344, 97}}",
+  "glyphBounds": "{{141, 33}, {351, 94}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -154,7 +183,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "挙式料 ¥318,000 から ¥120",
+  "name": "ハワイ挙式一式料金からなんと ¥120,",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -218,10 +247,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HiraginoSans-W3",
-            "size": 26
+            "size": 22
           }
         },
-        "kerning": 1,
+        "kerning": 0.8461538461538463,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

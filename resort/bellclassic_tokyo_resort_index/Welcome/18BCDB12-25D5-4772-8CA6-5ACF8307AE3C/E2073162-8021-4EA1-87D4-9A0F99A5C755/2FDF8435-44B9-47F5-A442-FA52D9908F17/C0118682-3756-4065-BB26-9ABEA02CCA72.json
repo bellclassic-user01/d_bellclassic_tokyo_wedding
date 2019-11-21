@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 66,
+        "length": 67,
         "location": 0
       },
       {
@@ -58,7 +58,7 @@
           "underlineStyle": 1
         },
         "length": 27,
-        "location": 66
+        "location": 67
       },
       {
         "_class": "stringAttribute",
@@ -86,10 +86,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 32,
-        "location": 93
+        "location": 94
       }
     ],
-    "string": "ベルクラシック東京で実施している本割引プランは、下記のベルクラシックリゾートサイトでご紹介している割引プランとは内容が異なります。\nベルクラシックリゾート　スペシャル値引きプラン > \n本ページ記載の割引内容が適応となりますので、予めご了承ください。"
+    "string": "ベルクラシック東京で実施している上記割引プランは、下記のベルクラシックリゾートサイトでご紹介している割引プランとは内容が異なります。\nベルクラシックリゾート　スペシャル値引きプラン > \n当ページ記載の割引内容が適応となりますので、予めご了承ください。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -123,7 +123,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "ベルクラシック東京で実施している本割引プ",
+  "name": "ベルクラシック東京で実施している上記割引",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

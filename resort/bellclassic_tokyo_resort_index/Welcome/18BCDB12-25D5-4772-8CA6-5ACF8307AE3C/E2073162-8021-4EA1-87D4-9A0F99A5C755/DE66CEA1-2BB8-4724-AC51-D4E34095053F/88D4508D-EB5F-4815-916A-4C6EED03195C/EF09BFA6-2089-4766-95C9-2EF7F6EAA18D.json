@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "ウェディング\nドレスも\nセットで"
+    "string": "ウェディング\nドレスも\nセット！"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "height": 48,
     "width": 75,
-    "x": 28,
+    "x": 329,
     "y": 28
   },
   "glyphBounds": "{{1, 3}, {74, 44}}",
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "ウェディング ドレスも セットで",
+  "name": "ウェディング ドレスも セット！",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
