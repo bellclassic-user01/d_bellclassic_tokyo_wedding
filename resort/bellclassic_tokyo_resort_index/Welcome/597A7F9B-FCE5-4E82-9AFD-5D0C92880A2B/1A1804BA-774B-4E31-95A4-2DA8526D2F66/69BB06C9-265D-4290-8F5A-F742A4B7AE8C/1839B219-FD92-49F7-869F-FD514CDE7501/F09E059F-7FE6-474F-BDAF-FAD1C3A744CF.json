@@ -16,9 +16,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 10,
-    "width": 0.625,
-    "x": 9.375,
+    "height": 6,
+    "width": 0.375,
+    "x": 5.625,
     "y": 0
   },
   "hasClippingMask": false,

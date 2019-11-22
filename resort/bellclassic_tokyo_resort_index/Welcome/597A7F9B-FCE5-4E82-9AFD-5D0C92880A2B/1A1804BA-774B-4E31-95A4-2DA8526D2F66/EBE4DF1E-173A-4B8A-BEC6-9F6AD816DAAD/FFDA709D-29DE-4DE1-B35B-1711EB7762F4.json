@@ -17,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 700,
-    "width": 1050.769230769231,
-    "x": 0,
+    "height": 493,
+    "width": 740,
+    "x": 0.7692307692304894,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
   "name": "beach_main",

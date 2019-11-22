@@ -43,6 +43,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      30,
+      345
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -53,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -65,7 +67,15 @@
     },
     {
       "class": "bitmap",
-      "id": "A3DC4372-02E7-42B2-B9E1-5E89C7C7D0F6"
+      "id": "60BD1D1A-A8A3-4313-88ED-DBA84F305926"
+    },
+    {
+      "class": "group",
+      "id": "B9964994-ABA2-4B9B-A741-1B045602811B"
+    },
+    {
+      "class": "bitmap",
+      "id": "9A2D39DE-D734-4A77-A9F6-11699D8BB146"
     }
   ],
   "maintainScrollPosition": false,
@@ -128,7 +138,10 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      60
+      60,
+      553,
+      1143,
+      1353
     ]
   }
 }

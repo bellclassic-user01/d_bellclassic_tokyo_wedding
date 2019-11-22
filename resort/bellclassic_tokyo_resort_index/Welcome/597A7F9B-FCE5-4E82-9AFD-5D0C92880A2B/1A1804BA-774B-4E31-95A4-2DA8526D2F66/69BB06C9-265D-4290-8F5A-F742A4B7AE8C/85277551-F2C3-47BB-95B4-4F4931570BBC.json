@@ -20,12 +20,12 @@
               "size": 10
             }
           },
-          "kerning": 0.3571428571428572,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 114,
-    "x": 0,
-    "y": 19
+    "height": 42,
+    "width": 84,
+    "x": 3,
+    "y": 20
   },
-  "glyphBounds": "{{26, 5}, {60, 41}}",
+  "glyphBounds": "{{12, 4}, {58, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -134,12 +134,12 @@
             "size": 10
           }
         },
-        "kerning": 0.3571428571428572,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },

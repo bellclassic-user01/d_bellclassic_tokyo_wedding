@@ -17,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 700,
+    "height": 493,
     "width": 375,
-    "x": 525,
+    "x": 275,
     "y": 0
   },
   "hasClippingMask": true,
@@ -164,7 +164,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.4
+      "opacity": 0.45
     },
     "do_objectID": "721C5F56-BCCF-4FD6-B227-B106BD53CEB2",
     "endMarkerType": 0,
