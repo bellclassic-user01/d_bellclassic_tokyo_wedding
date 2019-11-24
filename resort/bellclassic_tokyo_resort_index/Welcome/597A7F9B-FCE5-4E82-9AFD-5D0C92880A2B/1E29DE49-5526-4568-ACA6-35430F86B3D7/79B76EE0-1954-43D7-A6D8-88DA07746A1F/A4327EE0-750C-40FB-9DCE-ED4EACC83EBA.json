@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.192156862745098,
+            "green": 0.2078431372549019,
+            "red": 0.2627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "DarkerGrotesque-SemiBold",
-              "size": 30
+              "name": "HiraginoSans-W3",
+              "size": 11
             }
           },
-          "kerning": 0,
+          "kerning": 0.275,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
+            "alignment": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 89,
         "location": 0
       }
     ],
-    "string": ">>"
+    "string": "ハワイならではの“本物の教会“やワイキキの海を見下ろせるダイヤモンドヘッドの麓、ハワイアンシアターのあるダウンタウン・・・\nお気に入りのロケーションで、おふたりらしい写真撮影を。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2B607C48-C018-49A6-86C0-0B1CA0A653FA",
+  "do_objectID": "A4327EE0-750C-40FB-9DCE-ED4EACC83EBA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 25,
-    "x": 208,
-    "y": 17
+    "height": 114,
+    "width": 279,
+    "x": 27,
+    "y": 76
   },
-  "glyphBounds": "{{1, 14}, {23, 11}}",
+  "glyphBounds": "{{0, 11}, {277, 99}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,9 +67,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": ">>",
+  "name": "ハワイならではの“本物の教会“やワイキキ",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C15C55CD-F6C8-40B9-A292-228B2B63CE38",
+    "do_objectID": "3B029A2F-A243-44F7-8347-9B7AA57080D8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,23 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.192156862745098,
+          "green": 0.2078431372549019,
+          "red": 0.2627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "DarkerGrotesque-SemiBold",
-            "size": 30
+            "name": "HiraginoSans-W3",
+            "size": 11
           }
         },
-        "kerning": 0,
+        "kerning": 0.275,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "alignment": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -147,11 +147,26 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_79049f57-c1cc-4ba8-b7db-54cce62149c5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_69403677-c33e-4fcc-8a84-667042ccb75a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 0
       }
     }
   }

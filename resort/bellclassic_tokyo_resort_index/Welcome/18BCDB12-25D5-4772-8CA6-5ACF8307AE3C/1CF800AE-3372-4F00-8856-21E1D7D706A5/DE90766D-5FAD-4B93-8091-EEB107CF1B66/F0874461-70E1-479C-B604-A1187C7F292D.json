@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W3",
-              "size": 14
+              "size": 15
             }
           },
-          "kerning": 0.35,
+          "kerning": 0.375,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 81,
+        "length": 89,
         "location": 0
       }
     ],
-    "string": "ここに説明テキストが入ります。ここに説明テキストが入ります、入ります。ここに説明テキストが入ります。\nここに説明テキストが入ります、ここに説明テキストが入ります。"
+    "string": "ハワイならではの“本物の教会“やワイキキの海を見下ろせるダイヤモンドヘッドの麓、ハワイアンシアターのあるダウンタウン・・・\nお気に入りのロケーションで、おふたりらしい写真撮影を。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 121,
-    "width": 471,
+    "height": 100,
+    "width": 477,
     "x": 48,
-    "y": 102
+    "y": 105
   },
-  "glyphBounds": "{{1, 14}, {466, 75}}",
+  "glyphBounds": "{{0, 14}, {468, 76}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "ここに説明テキストが入ります。ここに説明",
+  "name": "ハワイならではの“本物の教会“やワイキキ",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -131,10 +131,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HiraginoSans-W3",
-            "size": 14
+            "size": 15
           }
         },
-        "kerning": 0.35,
+        "kerning": 0.375,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

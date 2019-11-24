@@ -24,16 +24,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 141,
+        "length": 79,
         "location": 0
       }
     ],
-    "string": "町や自然も満喫できる忘れられない旅へ。\n最高のロケーションにつつまれて、\n「お二人だけの」愛を確かめ合うウェディングを。\n安心の挙式プランもご用意しています。\n\nハワイが大好きな方はもちろん、\nハワイが初めての方も\nベルクラシックグループで、\nリゾートウェディングを実現しませんか。"
+    "string": "町や自然も満喫できる忘れられない旅へ。\n最高のロケーションにつつまれて、\n「お二人だけの」愛を確かめ合うウェディングを。\n安心の挙式プランもご用意しています。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 225,
+    "height": 111,
     "width": 315,
     "x": 0,
-    "y": 92.39999999999998
+    "y": 102.4
   },
-  "glyphBounds": "{{23, 12}, {269, 205}}",
+  "glyphBounds": "{{23, 13}, {269, 90}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -138,8 +138,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
         },
         "textStyleVerticalAlignmentKey": 0
       },

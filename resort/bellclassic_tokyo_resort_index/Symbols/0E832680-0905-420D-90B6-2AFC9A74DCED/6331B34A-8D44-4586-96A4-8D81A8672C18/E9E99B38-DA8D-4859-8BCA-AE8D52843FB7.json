@@ -18,9 +18,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 245,
-    "x": 5,
-    "y": 5
+    "width": 240,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,

@@ -20,7 +20,7 @@
     "height": 210,
     "width": 375,
     "x": 0,
-    "y": 1143
+    "y": 1197
   },
   "hasClippingMask": false,
   "image": {
@@ -36,8 +36,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "9b5d89355f39b242fb44ee8fb6844181",
-  "nameIsFixed": false,
+  "name": "movie",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

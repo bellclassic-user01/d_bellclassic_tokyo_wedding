@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 335,
-    "width": 660,
-    "x": 610,
-    "y": 635
+    "height": 333,
+    "width": 641,
+    "x": 609,
+    "y": 622
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -37,8 +37,16 @@
       "id": "ACFA5168-77AD-4694-907D-5CA344210DCB"
     },
     {
-      "class": "group",
-      "id": "AB381745-B0EB-4C04-BAF8-07504A91B141"
+      "class": "rectangle",
+      "id": "32C12147-5A7B-4977-98FA-64D7A919670F"
+    },
+    {
+      "class": "text",
+      "id": "C9B10BA4-7A1B-4FEB-A0B2-AEFD7139B75B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70D8E9D9-8CCD-4F75-9A1A-6BD1E6BCFD46"
     },
     {
       "class": "text",

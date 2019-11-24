@@ -9,36 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.192156862745098,
+            "green": 0.2078431372549019,
+            "red": 0.2627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "DarkerGrotesque-Regular",
+              "name": "HiraginoSans-W3",
               "size": 24
             }
           },
-          "kerning": 5.739130434782608,
+          "kerning": 0.6666666666666663,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "CHECK!"
+    "string": "フォトウェディング"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "558C38E5-02C9-407F-9A46-E7CAF2EF0C7D",
+  "do_objectID": "B01EBD9B-A19B-4F39-90C2-71B93A4201F4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,21 +51,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 106,
-    "x": 75,
-    "y": 21
+    "width": 221,
+    "x": 55,
+    "y": 86
   },
-  "glyphBounds": "{{1, 7}, {98, 15}}",
+  "glyphBounds": "{{3, -1}, {217, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "CHECK!",
+  "name": "フォトウェディング",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44F04977-FA22-4473-85BD-6B11AB3FBC56",
+    "do_objectID": "05499AC5-3D66-4D0D-B45C-F915C80EB54D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,23 +121,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.192156862745098,
+          "green": 0.2078431372549019,
+          "red": 0.2627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "DarkerGrotesque-Regular",
+            "name": "HiraginoSans-W3",
             "size": 24
           }
         },
-        "kerning": 5.739130434782608,
+        "kerning": 0.6666666666666663,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -147,34 +143,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "centerHorizontally": {
-            "constant": 10.5,
-            "enabled": 1,
-            "modelID": "constraint_2184d8fb-6450-45c4-8b5b-dc4e3062827f",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          },
-          "centerVertically": {
-            "constant": -2,
-            "enabled": 1,
-            "modelID": "constraint_58b24f66-8204-4b6b-8e2f-3befcd65d2e0",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_845d8efd-3a70-429b-a7ad-531902204587",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0,
-          "scaleFactor": 1
-        },
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

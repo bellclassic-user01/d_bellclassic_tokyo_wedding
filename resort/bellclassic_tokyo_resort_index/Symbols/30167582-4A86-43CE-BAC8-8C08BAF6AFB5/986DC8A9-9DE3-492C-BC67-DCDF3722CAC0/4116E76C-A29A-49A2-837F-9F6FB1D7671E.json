@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HiraginoSans-W5",
-              "size": 14
+              "size": 13
             }
           },
-          "kerning": 0.3888888888888888,
+          "kerning": 0.361111111111111,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 101,
-    "x": 55,
-    "y": 23
+    "height": 13,
+    "width": 94,
+    "x": 53.5,
+    "y": 19
   },
-  "glyphBounds": "{{0, 0}, {99, 14}}",
+  "glyphBounds": "{{0, 0}, {92, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,10 +129,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HiraginoSans-W5",
-            "size": 14
+            "size": 13
           }
         },
-        "kerning": 0.3888888888888888,
+        "kerning": 0.361111111111111,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
