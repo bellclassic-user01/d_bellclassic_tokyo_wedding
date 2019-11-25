@@ -164,7 +164,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.699045
+      "opacity": 1
     },
     "do_objectID": "217C635A-510B-4621-8795-A9FAF0187A66",
     "endMarkerType": 0,
@@ -173,7 +173,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.7,
           "blue": 1,
           "green": 1,
           "red": 1

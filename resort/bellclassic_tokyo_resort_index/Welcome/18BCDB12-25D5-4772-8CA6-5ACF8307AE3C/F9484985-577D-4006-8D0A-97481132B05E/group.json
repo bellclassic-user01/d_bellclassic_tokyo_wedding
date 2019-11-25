@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 973,
-    "width": 1371,
-    "x": 42,
-    "y": 3903
+    "width": 1411,
+    "x": 78,
+    "y": 3952
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -116,7 +116,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": 63.5,
             "enabled": 1,
             "modelID": "constraint_bd42bf45-a0d4-4055-860e-2ab99615f2dc",
             "model_class": "ADModelConstraint",
@@ -124,7 +124,7 @@
             "multiplier": 0
           },
           "left": {
-            "constant": 0,
+            "constant": 78,
             "enabled": 1,
             "modelID": "constraint_4a403969-f932-438a-ae8f-0c234c68e12d",
             "model_class": "ADModelConstraint",
@@ -141,7 +141,7 @@
             "modelID": "constraint_a4ad6ade-c0f3-4390-8a95-6fbe40ecd095",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 0.865
+            "multiplier": 0.9798611
           }
         }
       }

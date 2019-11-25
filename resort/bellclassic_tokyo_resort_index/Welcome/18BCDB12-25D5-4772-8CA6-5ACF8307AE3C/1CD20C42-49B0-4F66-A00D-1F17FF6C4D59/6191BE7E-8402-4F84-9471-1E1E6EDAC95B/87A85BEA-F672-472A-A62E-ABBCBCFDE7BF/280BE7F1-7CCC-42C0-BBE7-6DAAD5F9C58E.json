@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 910,
-    "width": 1366,
+    "height": 832,
+    "width": 1360,
     "x": 0,
     "y": 0
   },
@@ -234,14 +234,6 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "constraints": {
-          "aspectRatio": {
-            "constant": 910,
-            "enabled": 1,
-            "modelID": "constraint_8ee390d0-dc33-4921-a7f9-6b6aae1e5dc9",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 1366
-          },
           "automatic": 1,
           "centerHorizontally": {
             "constant": 0,

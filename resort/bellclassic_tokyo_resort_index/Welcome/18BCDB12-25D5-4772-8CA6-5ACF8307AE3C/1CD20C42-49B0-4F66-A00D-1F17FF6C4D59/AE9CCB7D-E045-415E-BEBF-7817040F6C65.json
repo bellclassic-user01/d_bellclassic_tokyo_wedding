@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 127,
     "width": 205,
-    "x": 580,
-    "y": 608
+    "x": 579,
+    "y": 655
   },
   "hasClippingMask": false,
   "image": {
@@ -38,7 +38,7 @@
   "maintainScrollPosition": false,
   "name": "bellcla_resort_logo",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

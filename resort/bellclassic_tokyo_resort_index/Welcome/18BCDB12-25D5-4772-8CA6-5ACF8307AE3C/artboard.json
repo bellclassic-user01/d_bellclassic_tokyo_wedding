@@ -22,8 +22,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9340,
-    "width": 1366,
+    "height": 9185,
+    "width": 1440,
     "x": 2426,
     "y": 186
   },
@@ -43,9 +43,11 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      183,
-      1182,
-      609
+      208,
+      1232,
+      609,
+      40,
+      1400
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -60,23 +62,35 @@
   "layers": [
     {
       "class": "group",
-      "id": "CBAFF13A-153A-4CC4-873F-F8AD22B1A997"
-    },
-    {
-      "class": "bitmap",
-      "id": "0B520D4E-F606-427C-AF41-56738A5BA554"
-    },
-    {
-      "class": "group",
       "id": "F69EB5B7-90F7-4D82-92DA-B53D29BA9B95"
     },
     {
       "class": "group",
-      "id": "D2E32703-343E-4C28-8313-6A39049A03D7"
+      "id": "2B9966CD-5664-41C8-AD63-C7FD9C121545"
     },
     {
       "class": "group",
-      "id": "6EDB06F6-70F9-49BA-9EB4-ECBC84EA06E3"
+      "id": "66756AE6-34B2-4A4E-85DD-E05D9262880D"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4A0DB20-843C-4216-99FF-68B4D619CB57"
+    },
+    {
+      "class": "text",
+      "id": "3A51CAB7-A1CD-4096-8476-7F40C68AACF2"
+    },
+    {
+      "class": "text",
+      "id": "F696AFEA-8F34-4725-B53D-64FF00CEE321"
+    },
+    {
+      "class": "group",
+      "id": "CBAFF13A-153A-4CC4-873F-F8AD22B1A997"
+    },
+    {
+      "class": "group",
+      "id": "56E8051A-74EF-480F-9E0A-2631032077DA"
     },
     {
       "class": "group",
@@ -108,6 +122,10 @@
     },
     {
       "class": "group",
+      "id": "6332E1C4-018B-44BA-93C0-C5E7AA52A63F"
+    },
+    {
+      "class": "group",
       "id": "A5B84894-4CFC-4EE7-80E6-13D16EEE01D4"
     },
     {
@@ -129,6 +147,10 @@
     {
       "class": "group",
       "id": "9FB2E8FB-3E5B-4E05-8312-37EEB535C431"
+    },
+    {
+      "class": "rectangle",
+      "id": "618EF0D2-A154-4B94-98C9-1DCC53D0588D"
     },
     {
       "class": "group",
@@ -154,8 +176,13 @@
   "name": "Desktop",
   "nameIsFixed": false,
   "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -218,11 +245,12 @@
     "base": 0,
     "guides": [
       950,
-      3807,
+      3735,
       3953,
       4950,
       5150,
-      2707
+      2707,
+      8300
     ]
   }
 }

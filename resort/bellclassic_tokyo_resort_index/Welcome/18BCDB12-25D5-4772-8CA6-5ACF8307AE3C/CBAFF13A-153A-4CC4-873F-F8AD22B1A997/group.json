@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 611,
-    "width": 1366,
-    "x": 0,
-    "y": 8729
+    "height": 465,
+    "width": 1400,
+    "x": 40,
+    "y": 7821
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,35 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "75AD8D65-3A88-4D51-BF33-F1AE485902AB"
+      "class": "text",
+      "id": "E0019F02-AF26-4688-8473-D5268310C670"
     },
     {
       "class": "bitmap",
       "id": "12C086A6-85DB-4B91-B7D4-B203AF0B0959"
     },
     {
-      "class": "text",
-      "id": "E0019F02-AF26-4688-8473-D5268310C670"
-    },
-    {
-      "class": "oval",
-      "id": "98FB9C06-0BDA-4638-AF70-B78F9727B825"
-    },
-    {
-      "class": "shapePath",
-      "id": "7435E581-03C1-4BA3-B38D-071CD1F4C181"
-    },
-    {
-      "class": "shapePath",
-      "id": "76669ED1-5E27-427E-9317-5CF833020B3A"
-    },
-    {
-      "class": "text",
-      "id": "8A63E4AF-ACDE-405E-B0C0-D06DECB8B100"
+      "class": "group",
+      "id": "7B331CAA-79E1-4568-BBC6-3B79F69613E0"
     }
   ],
   "maintainScrollPosition": false,

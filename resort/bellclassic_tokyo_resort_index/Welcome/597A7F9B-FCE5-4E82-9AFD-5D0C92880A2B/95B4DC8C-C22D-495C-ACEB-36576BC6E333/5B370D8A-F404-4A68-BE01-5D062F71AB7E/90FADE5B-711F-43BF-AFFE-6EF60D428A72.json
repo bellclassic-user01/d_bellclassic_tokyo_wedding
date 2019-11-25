@@ -24,16 +24,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 19.8,
+            "minimumLineHeight": 19.8
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 89,
+        "length": 81,
         "location": 0
       }
     ],
-    "string": "ハワイならではの“本物の教会“やワイキキの海を見下ろせるダイヤモンドヘッドの麓、ハワイアンシアターのあるダウンタウン・・・\nお気に入りのロケーションで、おふたりらしい写真撮影を。"
+    "string": "ここに説明テキストが入ります。ここに説明テキストが入ります、入ります。ここに説明テキストが入ります。\nここに説明テキストが入ります、ここに説明テキストが入ります。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 114,
-    "width": 279,
-    "x": 27,
-    "y": 76
+    "height": 115,
+    "width": 267,
+    "x": 38,
+    "y": 92
   },
-  "glyphBounds": "{{0, 11}, {277, 99}}",
+  "glyphBounds": "{{1, 10}, {255, 90}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "ハワイならではの“本物の教会“やワイキキ",
+  "name": "ここに説明テキストが入ります。ここに説明",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -138,8 +138,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 19.8,
+          "minimumLineHeight": 19.8
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 269,
-    "width": 557,
-    "x": 8,
-    "y": 56
+    "height": 190.46511627907,
+    "width": 589.0785340314103,
+    "x": 8.460732984293372,
+    "y": 57.25581395348854
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -164,7 +164,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.7
+      "opacity": 0.8
     },
     "do_objectID": "EF18CAE7-5257-4860-8AA2-5B6B5EDEDBDE",
     "endMarkerType": 0,

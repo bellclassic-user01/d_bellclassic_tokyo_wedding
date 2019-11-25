@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 421,
-    "width": 685,
-    "x": 340,
-    "y": 130
+    "height": 431,
+    "width": 691,
+    "x": 333,
+    "y": 222
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -48,7 +48,7 @@
   "maintainScrollPosition": false,
   "name": "title",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

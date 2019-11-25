@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1077,
-    "width": 2361,
-    "x": -497,
-    "y": 2507
+    "height": 1275,
+    "width": 2794,
+    "x": -634,
+    "y": 2520
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -96,7 +96,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": 43,
             "enabled": 1,
             "modelID": "constraint_57398daf-5493-4926-89e6-a56f5a32dee5",
             "model_class": "ADModelConstraint",

@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 279,
-    "width": 331,
+    "height": 233,
+    "width": 343,
     "x": 0,
-    "y": 8
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -164,7 +164,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.7
+      "opacity": 0.8
     },
     "do_objectID": "504A1091-E6BE-47B8-B40F-17F45356EDFF",
     "endMarkerType": 0,

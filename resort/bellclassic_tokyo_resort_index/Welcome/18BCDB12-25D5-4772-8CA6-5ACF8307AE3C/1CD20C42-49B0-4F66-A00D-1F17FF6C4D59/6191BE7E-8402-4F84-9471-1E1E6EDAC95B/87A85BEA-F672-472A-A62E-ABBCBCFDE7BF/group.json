@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 910,
-    "width": 1366,
+    "height": 832,
+    "width": 1360,
     "x": 0,
-    "y": 0
+    "y": 74
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -99,26 +99,18 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 910,
+            "constant": 832,
             "enabled": 1,
             "modelID": "constraint_43117972-2be0-4320-a14f-1251976b1127",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 1366
+            "multiplier": 1360
           },
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": 19,
             "enabled": 1,
             "modelID": "constraint_879ab56e-5de6-492b-b6cc-0c4cf92135ae",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 0
-          },
-          "centerVertically": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_934d5eaf-505b-4378-942d-92b3167c83c6",
             "model_class": "ADModelConstraint",
             "model_version": 0,
             "multiplier": 0
@@ -129,7 +121,7 @@
             "modelID": "constraint_fcd015d8-ebef-4983-aa85-b01b5bfeb9cd",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 1
+            "multiplier": 0.9183223
           },
           "modelID": "viewConstraints_1e1e37c2-ee18-410f-94fc-bbcbe621da02",
           "model_class": "ADModelViewConstraints",

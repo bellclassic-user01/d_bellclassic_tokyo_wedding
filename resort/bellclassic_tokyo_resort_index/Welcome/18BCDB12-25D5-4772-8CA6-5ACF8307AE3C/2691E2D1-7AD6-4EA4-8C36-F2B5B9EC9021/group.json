@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 452,
     "width": 357,
-    "x": 0,
-    "y": 3358
+    "x": 40,
+    "y": 3317
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -99,7 +99,7 @@
           "model_class": "ADModelViewConstraints",
           "model_version": 0,
           "right": {
-            "constant": 0,
+            "constant": 1083,
             "enabled": 1,
             "modelID": "constraint_9abcd2c5-a5a6-4ded-8fc4-26b36b7511d5",
             "model_class": "ADModelConstraint",
@@ -108,7 +108,7 @@
           },
           "scaleFactor": 1,
           "top": {
-            "constant": 0,
+            "constant": 3287,
             "enabled": 1,
             "modelID": "constraint_b45597f5-f701-4c09-b6f3-e9a9c23a7013",
             "model_class": "ADModelConstraint",

@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 546,
+    "height": 581,
     "width": 682,
-    "x": 342,
+    "x": 338,
     "y": 136
   },
   "groupLayout": {
@@ -112,7 +112,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": -0.5,
             "enabled": 1,
             "modelID": "constraint_f3eef463-1f0d-452a-a788-bf9bd91a2d03",
             "model_class": "ADModelConstraint",
@@ -120,7 +120,7 @@
             "multiplier": 0
           },
           "centerVertically": {
-            "constant": 10,
+            "constant": 3,
             "enabled": 1,
             "modelID": "constraint_db24e051-057d-44b8-b177-8290131527bb",
             "model_class": "ADModelConstraint",

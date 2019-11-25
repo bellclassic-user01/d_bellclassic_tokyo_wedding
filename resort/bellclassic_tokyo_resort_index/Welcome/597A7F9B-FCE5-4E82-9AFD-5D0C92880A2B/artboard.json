@@ -43,8 +43,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      30,
-      345,
+      16,
+      359,
       88
     ]
   },
@@ -63,16 +63,32 @@
       "id": "730B86A5-4239-4B9D-9DD8-9303E147096C"
     },
     {
+      "class": "bitmap",
+      "id": "6A566420-8013-4D95-93D4-839843325F57"
+    },
+    {
+      "class": "bitmap",
+      "id": "73BD61E8-9905-4F6D-A944-43BD0F18D0FE"
+    },
+    {
+      "class": "group",
+      "id": "355DE6B3-9A39-4D4A-9DEA-E5BAA068FB63"
+    },
+    {
+      "class": "group",
+      "id": "95B4DC8C-C22D-495C-ACEB-36576BC6E333"
+    },
+    {
+      "class": "group",
+      "id": "65D0852A-2004-46BE-A7A3-574E9BA82340"
+    },
+    {
       "class": "group",
       "id": "4635980E-FC11-4B9B-A648-95416CE43E60"
     },
     {
       "class": "group",
       "id": "D3462CAF-915B-4A30-909A-89BA2840B588"
-    },
-    {
-      "class": "group",
-      "id": "95B4DC8C-C22D-495C-ACEB-36576BC6E333"
     },
     {
       "class": "group",
@@ -105,20 +121,17 @@
     {
       "class": "group",
       "id": "560EF660-A18E-4FE3-A84C-830A577630D7"
-    },
-    {
-      "class": "shapePath",
-      "id": "DFF70BA9-76FC-44C6-8252-D2B37D987C95"
-    },
-    {
-      "class": "shapePath",
-      "id": "6364FA6B-29D5-4ED9-9782-5E3B84BC60AF"
     }
   ],
   "maintainScrollPosition": false,
   "name": "Mobile Portrait",
   "nameIsFixed": false,
   "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
   },
   "resizesContent": true,
   "resizingConstraint": 63,

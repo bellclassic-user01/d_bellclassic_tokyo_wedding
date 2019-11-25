@@ -193,8 +193,8 @@
     "constrainProportions": false,
     "height": 361,
     "width": 685,
-    "x": 0,
-    "y": 60
+    "x": 6,
+    "y": 70
   },
   "glyphBounds": "{{113, -18}, {459, 295}}",
   "hasClippingMask": false,
@@ -208,7 +208,7 @@
   "maintainScrollPosition": false,
   "name": "THE HAWAII WEDDING",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
