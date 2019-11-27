@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1834,
-    "width": 2014,
-    "x": -314,
-    "y": 5413
+    "height": 1850,
+    "width": 4055,
+    "x": -1307,
+    "y": 5573
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -46,7 +46,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "BG",
+  "name": "bg_pc_for_check",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

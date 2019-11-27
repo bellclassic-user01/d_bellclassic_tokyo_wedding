@@ -17,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 1771,
-    "width": 1945,
+    "height": 1637,
+    "width": 3588,
     "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/3bbed580a58e3fed89067722ec6c0fecb53ac87e.png",
+    "_ref": "images/23468e67f0f13833e7548098800840e8998d8d97.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
