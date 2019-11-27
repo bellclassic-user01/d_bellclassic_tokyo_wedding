@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 240,
-    "x": 600,
-    "y": 7601
+    "height": 212,
+    "width": 647,
+    "x": 397,
+    "y": 7216
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,11 +30,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "AF34C357-63C0-48FC-8AAB-97A782998848"
+    },
+    {
+      "class": "text",
+      "id": "8301D500-F6BC-4608-93A9-112E8758E8EF"
+    },
+    {
+      "class": "text",
+      "id": "3A51CAB7-A1CD-4096-8476-7F40C68AACF2"
+    },
+    {
+      "class": "text",
+      "id": "F696AFEA-8F34-4725-B53D-64FF00CEE321"
     }
   ],
   "maintainScrollPosition": false,

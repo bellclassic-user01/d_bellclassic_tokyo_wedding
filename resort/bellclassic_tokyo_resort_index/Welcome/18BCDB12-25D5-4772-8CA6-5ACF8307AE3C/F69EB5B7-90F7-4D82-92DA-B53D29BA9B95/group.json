@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1275,
-    "width": 2794,
-    "x": -634,
+    "height": 1438,
+    "width": 3152,
+    "x": -813,
     "y": 2520
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
